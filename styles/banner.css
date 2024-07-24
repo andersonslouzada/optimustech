@@ -5,17 +5,17 @@
 
 .banner__subtitulo {
     color: var(--cor-terciaria);
-    font-size: 16px;
+    font-size: 1.35rem;
     font-weight: 600;
 }
 
 .banner__titulo {
     color: var(--cor-primaria);
     font-weight: 600;
-    font-size: 48px;
+    font-size: 4rem;
 }
 
 .banner__texto {
     color: var(--cor-secundaria);
-    font-size: 20px;
+    font-size: 1.7rem;
 }

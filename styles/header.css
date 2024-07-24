@@ -1,6 +1,6 @@
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     margin: 1.15rem 0rem;
 }
@@ -20,7 +20,7 @@
 }
 
 .navbar__nome {
-    font-size: 18px;
+    font-size: 1.25rem;
     font-weight: 500;
     color: var(--cor-logo);
 }
@@ -36,7 +36,7 @@
     margin-right: 0.75rem;
     text-decoration: none;
     border-radius: 8px;
-    padding: 10px 18px;
+    padding: .75rem 1.20rem;
     font-weight: 500;
 }
 
