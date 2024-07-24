@@ -1,0 +1,21 @@
+.banner {
+    margin: 8% 15%;
+    text-align: center;
+}
+
+.banner__subtitulo {
+    color: var(--cor-terciaria);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.banner__titulo {
+    color: var(--cor-primaria);
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.banner__texto {
+    color: var(--cor-secundaria);
+    font-size: 20px;
+}
