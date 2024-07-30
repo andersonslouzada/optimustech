@@ -4,6 +4,7 @@
 @import url('./styles/metricas.css');
 @import url('./styles/vagas.css');
 @import url('./styles/depoimentos.css');
+@import url('./styles/rodape.css');
 
 :root {
     --cor-logo: #3A404E;
@@ -18,8 +19,9 @@
 }
 
 body {
+    margin: 0;
+    box-sizing: border-box;
     font-family: var(--font-primaria);
     font-size: 16px;
     background-color: var(--cor-background-primario);
-    margin: 0 5rem;
 }
