@@ -1,0 +1,39 @@
+.depoimentos {
+    text-align: center;
+    margin: 7%;
+    padding: 4%;
+    background: #8E24240D;
+}
+
+.depoimentos-texto {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--cor-terciaria);
+}
+
+.depoimentos-depoimento {
+    margin: 0;
+    padding: 1.35rem 0 2.7rem 0;
+    font-size: 3rem;
+    font-weight: 500;
+    color: var(--cor-primaria);
+}
+
+.pessoa-foto {
+    margin: 0;
+}
+
+.pessoa-nome {
+    margin: 0;
+    padding: 1.35rem 0 .35rem 0;
+    font-size: 1.35rem;
+    font-weight: 500;
+    color: var(--cor-primaria);
+}
+
+.pessoa-profissao {
+    margin: 0;
+    font-size: 1.2rem;
+    color: var(--cor-secundaria);
+}
