@@ -1,0 +1,30 @@
+.vagas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vagas__descricao {
+    text-align: center;
+    margin: 15rem 0 7rem 0;
+}
+
+.vagas__descricao-botao {
+    padding: 4px 12px;
+    background: #8E24240D;
+    color: var(--cor-terciaria);
+    font-size: 1.15rem;
+    border-radius: 1rem;
+    border: none;
+}
+
+.vagas__descricao-titulo {
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--cor-primaria);
+}
+
+.vagas__descricao-texto {
+    font-size: 1.65rem;
+    color: var(--cor-secundaria);
+}
